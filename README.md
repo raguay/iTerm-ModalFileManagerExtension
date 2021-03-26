@@ -1,6 +1,5 @@
-## Favorites for Modal File Manager
+## iTerm for Modal File Manager
 
-This is an extension to assign favorite folder locations to go to quickly. It also has 
-hotkeys for going to the past directories as well.
+This extension for the Modal File Manager allows the user to open the current directory in iTerm program on macOS. It is assigned to the 'normal' mode 'o'.
 
 
